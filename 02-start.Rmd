@@ -1,0 +1,3 @@
+# Getting Started
+
+In this Chapter, we get you started working with Moodle. Doing things like logging in, getting familiar with the dashboard, customizing your profile, etc.
