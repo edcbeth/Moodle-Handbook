@@ -1,0 +1,19 @@
+# Uploading content to your class
+
+<div class="chapter-intro">
+
+In this Chapter, you will add learning content to your classes.
+
+</div>
+
+## Uploading files
+
+Uploading files.
+
+## Adding links
+
+This is how you add URLs.
+
+## Embedding Media
+
+This is how you embed media

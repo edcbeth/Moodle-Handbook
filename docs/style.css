@@ -12,3 +12,9 @@ pre {
 pre code {
   white-space: inherit;
 }
+
+.chapter-intro {
+  background-color: #f0f8ff;
+  padding: 15px;
+  margin-bottom: 20px;
+}

@@ -1,0 +1,11 @@
+# Setting up your class
+
+<div class="chapter-intro">
+
+In this Chapter, you can set up your classs.
+
+</div>
+
+## The UB class template
+
+Request the UB class template.

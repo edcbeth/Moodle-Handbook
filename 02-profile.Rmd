@@ -1,0 +1,11 @@
+# Customise your profile
+
+<div class="chapter-intro">
+
+In this Chapter, you can set up your profile with relevant details.
+
+</div>
+
+## Upload your picture
+
+In  this section you will learn how to customize your profile with a picture and description.
